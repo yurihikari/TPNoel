@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TP Noel</string>
+    <string name="dim_space_team">DIM Space Team</string>
+    <string name="launch">Launch</string>
+    <string name="i_am_new_to_space_program">I am new to space program</string>
+    <string name="register_an_astronaut_profile">Register an Astronaut Profile</string>
+    <string name="i_am_a_famous_astronaut">I am a famous astronaut</string>
+    <string name="sus">Sus</string>
+    <string name="socket_connected">Socket connected</string>
+    <string name="socket_inactive">Socket Inactive</string>
+    <string name="join_a_game_room">Join a game room</string>
+    <string name="no_room_joined">No Room Joined</string>
+    <string name="enter_a_room_name_to_join_or_create_a_new_one">Enter a room name to join or Create a new one</string>
+    <string name="loose">Your team lost, sus.</string>
+    <string name="score">Your score was : 0</string>
+    <string name="retry">Retry</string>
+    <string name="highscore">Highscore</string>
+</resources>
